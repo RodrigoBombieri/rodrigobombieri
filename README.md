@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C# .Net**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RodrigoBombieri/MiPortfolio1]([https://github.com/RodrigoBombieri/MiPortfolio1](https://rodrigobombieri.github.io/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://rodrigobombieri.github.io/)
 
 - 📫 How to reach me **rodrigosbombieri@gmail.com**
 
