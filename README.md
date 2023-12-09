@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/rodrigo20306730" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigo20306730?logo=twitter&style=for-the-badge" alt="rodrigo20306730" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/RodrigoBombieri/MiPortfolio1)
+- 🔭 I’m currently working on [Portfolio](https://rodrigobombieri.github.io/portfolio-simple/)
 
 - 🌱 I’m currently learning **C# .Net**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://rodrigobombieri.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rodrigobombieri.github.io/portfolio-simple/)
 
 - 📫 How to reach me **rodrigosbombieri@gmail.com**
 
