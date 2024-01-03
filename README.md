@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigobombieri" alt="rodrigobombieri" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rodrigo20306730" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigo20306730?logo=twitter&style=for-the-badge" alt="rodrigo20306730" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BombaDev7" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigo20306730?logo=twitter&style=for-the-badge" alt="rodrigo20306730" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://rodrigobombieri.github.io/portfolio-simple/)
 
