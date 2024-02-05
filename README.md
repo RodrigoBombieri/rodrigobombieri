@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A passionate student of programming from Argentina</h3>
 
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">A passionate student of programming from Argentina</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigobombieri&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigobombieri" /> </p>
 
