@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
+![MasterHead](https://img.freepik.com/foto-gratis/experiencia-programacion-persona-que-trabaja-codigos-computadora_23-2150010125.jpg?w=996&t=st=1707172314~exp=1707172914~hmac=98fb3229d33a704d5cac2075df4f40824dc0adb9a37346755573c33b243a5b90)
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A passionate student of programming from Argentina</h3>
 
