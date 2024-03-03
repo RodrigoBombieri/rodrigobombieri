@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/foto-gratis/experiencia-programacion-persona-que-trabaja-codigos-computadora_23-2150010125.jpg?w=996&t=st=1707172314~exp=1707172914~hmac=98fb3229d33a704d5cac2075df4f40824dc0adb9a37346755573c33b243a5b90" alt="MasterHead" width="1057" height="448">
+<img src="C:\Users\Rodrigo\Desktop\Repositorio Git\FreeCodeCamp\Bootstrap\PortfolioFCC\img\banner" alt="MasterHead" width="1057" height="448">
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A passionate student of programming from Argentina</h3>
 
