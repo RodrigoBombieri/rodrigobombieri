@@ -1,4 +1,5 @@
-<img src="https://universodigital.org/wp-content/uploads/lenguajes-pcpal.jpg" alt="MasterHead" width="1057" height="448">
+<img src="https://www.teknei.com/wp-content/uploads/2020/07/que-es-la-inteligencia-artificial-1.jpg" alt="MasterHead" width="1057" height="448">
+
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A passionate student of programming from Argentina</h3>
 
