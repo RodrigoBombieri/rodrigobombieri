@@ -25,3 +25,9 @@
 [![](https://visitcount.itsvg.in/api?id=RodrigoBombieri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoBombieri/RodrigoBombieri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoBombieri/RodrigoBombieri/output/github-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/RodrigoBombieri/RodrigoBombieri/output/snake.svg" alt="Snake animation" />
+</picture>
+
