@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">A passionate Programmer from Argentina</h3>
+<h3 align="center">Programmer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on C# .Net<br><br>🌱 I’m currently learning C# .Net<br><br>👨‍💻 All of my projects are available at [Portfolio](https://rodrigobombieri.github.io/portfolio-simple/)<br><br>📫 How to reach me rodrigosbombieri@gmail.com
