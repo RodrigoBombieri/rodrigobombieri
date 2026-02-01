@@ -3,11 +3,28 @@
 
 # 💫 About Me:
 🔭 I’m currently working on:<br><br>
+
+-- <img width="20" height="20" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" /> .Net Projects <br>
+-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/78e4388d-54d4-45db-afe5-96c59d13d65d" /> Gestión de Suscripciones (API Web) <br>
+-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/78e4388d-54d4-45db-afe5-96c59d13d65d" /> URL Shortener con analiticas (API Web) <br>
+-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/78e4388d-54d4-45db-afe5-96c59d13d65d" /> Monitor de recursos del sistema (WinForms) <br>
+-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/78e4388d-54d4-45db-afe5-96c59d13d65d" /> Herramienta de automatización de archivos (WinForms) <br>
+-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/78e4388d-54d4-45db-afe5-96c59d13d65d" /> Smart Home Dashboard <br>
 -- ⚙️​ [ApiTaller .Net](https://github.com/RodrigoBombieri/API-Web-con-.Net-10/)<br>
 -- 🎞️​ [ProjectsMVC .Net](https://github.com/RodrigoBombieri/Curso-CSharp-Nivel-4/)<br>
--- ​🤖​ [PythonIA](https://github.com/RodrigoBombieri/IBM-Guayerd---Fundamentos-de-IA/)<br>
 -- 📱 [Ecommerce Web .Net](https://github.com/RodrigoBombieri/tp-final-nivel3-Bombieri-Rodrigo/)<br>
 -- ​📲​ [Ecommerce Winforms .Net](https://github.com/RodrigoBombieri/app-E-commerce/)<br><br>
+
+-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8b7891b5-f692-402f-92af-0f4f58bb8da6" /> Python + IA Projects <br>
+-- ​🤖​ [Análisis de Ventas](https://github.com/RodrigoBombieri/IBM-Guayerd---Fundamentos-de-IA/)<br>
+-- ​⛅​ [Clasificador de Nubes](https://github.com/RodrigoBombieri/IA-Projects)<br><br>
+
+-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e600506e-375c-47af-ae51-37e0ebdd7679" /> C++ Projects <br>
+-- 📽️​ [Software para Cine](https://github.com/RodrigoBombieri/UTN_Proyecto-Laboratorio2/tree/main/)<br><br>
+
+-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0c350857-18a7-469f-8b29-42caca820809" /> Java Projects<br>
+-- ​🏦​ [Software Gestion Bancaria](https://github.com/RodrigoBombieri/TPINT_GRUPO_2_LAB4)<br><br>
+
 🌱 I’m currently learning C# .Net<br><br>
 👨‍💻 All of my projects are available at [Portfolio](https://rodrigobombieri.github.io/portfolio-simple/)<br><br>📫
 How to reach me rodrigosbombieri@gmail.com
