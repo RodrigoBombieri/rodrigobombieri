@@ -5,11 +5,11 @@
 🔭 I’m currently working on:<br><br>
 
 -- <img width="20" height="20" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" /> .Net Projects <br>
--- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/78e4388d-54d4-45db-afe5-96c59d13d65d" /> Gestión de Suscripciones (API Web) <br>
--- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/78e4388d-54d4-45db-afe5-96c59d13d65d" /> URL Shortener con analiticas (API Web) <br>
--- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/78e4388d-54d4-45db-afe5-96c59d13d65d" /> Monitor de recursos del sistema (WinForms) <br>
--- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/78e4388d-54d4-45db-afe5-96c59d13d65d" /> Herramienta de automatización de archivos (WinForms) <br>
--- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/78e4388d-54d4-45db-afe5-96c59d13d65d" /> Smart Home Dashboard <br>
+-- 🔜​ Gestión de Suscripciones (API Web) <br>
+-- 🔜​ URL Shortener con analiticas (API Web) <br>
+-- 🔜​ Monitor de recursos del sistema (WinForms) <br>
+-- 🔜​ Herramienta de automatización de archivos (WinForms) <br>
+-- 🔜​ Smart Home Dashboard <br>
 -- ⚙️​ [ApiTaller .Net](https://github.com/RodrigoBombieri/API-Web-con-.Net-10/)<br>
 -- 🎞️​ [ProjectsMVC .Net](https://github.com/RodrigoBombieri/Curso-CSharp-Nivel-4/)<br>
 -- 📱 [Ecommerce Web .Net](https://github.com/RodrigoBombieri/tp-final-nivel3-Bombieri-Rodrigo/)<br>
