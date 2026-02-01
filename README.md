@@ -2,7 +2,15 @@
 <h3 align="center">Programmer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on C# .Net<br><br>🌱 I’m currently learning C# .Net<br><br>👨‍💻 All of my projects are available at [Portfolio](https://rodrigobombieri.github.io/portfolio-simple/)<br><br>📫 How to reach me rodrigosbombieri@gmail.com
+🔭 I’m currently working on:<br><br>
+-- ⚙️​ [ApiTaller .Net](https://github.com/RodrigoBombieri/API-Web-con-.Net-10/)<br>
+-- 🎞️​ [ProjectsMVC .Net](https://github.com/RodrigoBombieri/Curso-CSharp-Nivel-4/)<br>
+-- ​🤖​ [PythonIA](https://github.com/RodrigoBombieri/IBM-Guayerd---Fundamentos-de-IA/)<br>
+-- 📱 [Ecommerce Web .Net](https://github.com/RodrigoBombieri/tp-final-nivel3-Bombieri-Rodrigo/)<br>
+-- ​📲​ [Ecommerce Winforms .Net](https://github.com/RodrigoBombieri/app-E-commerce/)<br><br>
+🌱 I’m currently learning C# .Net<br><br>
+👨‍💻 All of my projects are available at [Portfolio](https://rodrigobombieri.github.io/portfolio-simple/)<br><br>📫
+How to reach me rodrigosbombieri@gmail.com
 
 
 ## 🌐 Socials:
