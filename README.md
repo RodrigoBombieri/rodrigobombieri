@@ -18,7 +18,8 @@
 -- ​⛅​ [Clasificador de Nubes](https://github.com/RodrigoBombieri/IA-Projects)<br><br>
 
 -- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e600506e-375c-47af-ae51-37e0ebdd7679" /> C++ Projects <br>
--- 📽️​ [Software para Cine](https://github.com/RodrigoBombieri/UTN_Proyecto-Laboratorio2/tree/main/)<br><br>
+-- 📽️​ [Software para Cine](https://github.com/RodrigoBombieri/UTN_Proyecto-Laboratorio2/tree/main/)<br>
+.. ✨​ [Semantic Cache Reverse Proxy for LLM](https://github.com/RodrigoBombieri/auracache) ⭐<br><br>
 
 -- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0c350857-18a7-469f-8b29-42caca820809" /> Java Projects<br>
 -- ​🏦​ [Software Gestion Bancaria](https://github.com/RodrigoBombieri/TPINT_GRUPO_2_LAB4)<br><br>
