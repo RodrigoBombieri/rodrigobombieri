@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on:<br><br>
 
--- <img width="20" height="20" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" /> .Net Projects <br>
+-- <img width="20" height="20" alt=".net icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" /> .Net Projects <br>
 -- 🔜​ [Control de Balanza .Net](https://github.com/RodrigoBombieri/AgroSoluciones/)⭐​<br>
 -- 🔜 [Sistema de Stock - Winforms](https://github.com/RodrigoBombieri/SistemaEscritorio) ⭐​<br>
 -- 👨‍⚕️ [Profesional.API](https://github.com/RodrigoBombieri/Profesional.API) ​<br>
@@ -13,16 +13,21 @@
 -- 📱 [Ecommerce Web .Net](https://github.com/RodrigoBombieri/tp-final-nivel3-Bombieri-Rodrigo/)<br>
 -- ​📲​ [Ecommerce Winforms .Net](https://github.com/RodrigoBombieri/app-E-commerce/)<br><br>
 
--- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8b7891b5-f692-402f-92af-0f4f58bb8da6" /> Python + IA Projects <br>
+-- <img width="20" height="20" alt="python icon" src="https://github.com/user-attachments/assets/8b7891b5-f692-402f-92af-0f4f58bb8da6" /> Python + IA Projects <br>
 -- ​🤖​ [Análisis de Ventas](https://github.com/RodrigoBombieri/IBM-Guayerd---Fundamentos-de-IA/)<br>
 -- ​⛅​ [Clasificador de Nubes](https://github.com/RodrigoBombieri/IA-Projects)<br><br>
 
--- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e600506e-375c-47af-ae51-37e0ebdd7679" /> C++ Projects <br>
+-- <img width="20" height="20" alt="c++ icon" src="https://github.com/user-attachments/assets/e600506e-375c-47af-ae51-37e0ebdd7679" /> C++ Projects <br>
 -- 📽️​ [Software para Cine](https://github.com/RodrigoBombieri/UTN_Proyecto-Laboratorio2/tree/main/)<br>
 .. ✨​ [Semantic Cache Reverse Proxy for LLM](https://github.com/RodrigoBombieri/auracache) ⭐<br><br>
 
--- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0c350857-18a7-469f-8b29-42caca820809" /> Java Projects<br>
+-- <img width="20" height="20" alt="java icon" src="https://github.com/user-attachments/assets/0c350857-18a7-469f-8b29-42caca820809" /> Java Projects<br>
 -- ​🏦​ [Software Gestion Bancaria](https://github.com/RodrigoBombieri/TPINT_GRUPO_2_LAB4)<br><br>
+
+-- <img width="20" height="20" alt="astro icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="48" height="48" alt="Astro"/> Web Projects<br>
+-- 💻 [Landing Page Corporativa](https://github.com/RodrigoBombieri/LandingCorporativa)<br><br>
+
+
 
 🌱 I’m currently learning C# .Net<br><br>
 👨‍💻 All of my projects are available at [Portfolio](https://rodrigobombieri.github.io/portfolio-simple/)<br><br>📫
