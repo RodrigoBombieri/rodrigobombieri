@@ -6,7 +6,7 @@
 
 -- <img width="20" height="20" alt=".net icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" /> .Net Projects <br>
 -- 🔜​ [Control de Balanza .Net](https://github.com/RodrigoBombieri/AgroSoluciones/)⭐​<br>
--- 🔜 [Sistema de Stock - Winforms](https://github.com/RodrigoBombieri/SistemaEscritorio) ⭐​<br>
+-- 🔜 [Sistema de Stock - Winforms](https://github.com/RodrigoBombieri/SistemaEscritorio) ​<br>
 -- 👨‍⚕️ [Profesional.API](https://github.com/RodrigoBombieri/Profesional.API) ​<br>
 -- ⚙️​ [ApiTaller .Net](https://github.com/RodrigoBombieri/API-Web-con-.Net-10/)<br>
 -- 🎞️​ [ProjectsMVC .Net](https://github.com/RodrigoBombieri/Curso-CSharp-Nivel-4/)<br>
@@ -14,6 +14,7 @@
 -- ​📲​ [Ecommerce Winforms .Net](https://github.com/RodrigoBombieri/app-E-commerce/)<br><br>
 
 -- <img width="20" height="20" alt="python icon" src="https://github.com/user-attachments/assets/8b7891b5-f692-402f-92af-0f4f58bb8da6" /> Python + IA Projects <br>
+-- 𖥂 [Software para Drones](https://github.com/RodrigoBombieri/agrotello)⭐<br>
 -- ​🤖​ [Análisis de Ventas](https://github.com/RodrigoBombieri/IBM-Guayerd---Fundamentos-de-IA/)<br>
 -- ​⛅​ [Clasificador de Nubes](https://github.com/RodrigoBombieri/IA-Projects)<br><br>
 
