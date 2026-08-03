@@ -14,8 +14,8 @@
 -- ​📲​ [Ecommerce Winforms .Net](https://github.com/RodrigoBombieri/app-E-commerce/)<br><br>
 
 -- <img width="20" height="20" alt="python icon" src="https://github.com/user-attachments/assets/8b7891b5-f692-402f-92af-0f4f58bb8da6" /> Python + IA Projects <br>
--- 𖥂 [Software para Drones](https://github.com/RodrigoBombieri/agrotello)⭐<br>
--- ​🤖​ [Análisis de Ventas](https://github.com/RodrigoBombieri/IBM-Guayerd---Fundamentos-de-IA/)<br>
+-- 🤖 [Software para Drones](https://github.com/RodrigoBombieri/agrotello)⭐<br>
+-- ​📊​​ [Análisis de Ventas](https://github.com/RodrigoBombieri/IBM-Guayerd---Fundamentos-de-IA/)<br>
 -- ​⛅​ [Clasificador de Nubes](https://github.com/RodrigoBombieri/IA-Projects)<br><br>
 
 -- <img width="20" height="20" alt="c++ icon" src="https://github.com/user-attachments/assets/e600506e-375c-47af-ae51-37e0ebdd7679" /> C++ Projects <br>
