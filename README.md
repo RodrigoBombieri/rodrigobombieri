@@ -10,8 +10,8 @@
 -- 👨‍⚕️ [Profesional.API](https://github.com/RodrigoBombieri/Profesional.API) ​<br>
 -- ⚙️​ [ApiTaller .Net](https://github.com/RodrigoBombieri/API-Web-con-.Net-10/)<br>
 -- 🎞️​ [ProjectsMVC .Net](https://github.com/RodrigoBombieri/Curso-CSharp-Nivel-4/)<br>
--- 📱 [Ecommerce Web .Net](https://github.com/RodrigoBombieri/tp-final-nivel3-Bombieri-Rodrigo/)<br>
--- ​📲​ [Ecommerce Winforms .Net](https://github.com/RodrigoBombieri/app-E-commerce/)<br><br>
+-- 🖥️ [Ecommerce Web .Net](https://github.com/RodrigoBombieri/tp-final-nivel3-Bombieri-Rodrigo/)<br>
+-- 💻​​ [Ecommerce Winforms .Net](https://github.com/RodrigoBombieri/app-E-commerce/)<br><br>
 
 -- <img width="20" height="20" alt="python icon" src="https://github.com/user-attachments/assets/8b7891b5-f692-402f-92af-0f4f58bb8da6" /> Python + IA Projects <br>
 -- 🤖 [Software para Drones](https://github.com/RodrigoBombieri/agrotello)⭐<br>
@@ -21,6 +21,9 @@
 -- <img width="20" height="20" alt="c++ icon" src="https://github.com/user-attachments/assets/e600506e-375c-47af-ae51-37e0ebdd7679" /> C++ Projects <br>
 -- 📽️​ [Software para Cine](https://github.com/RodrigoBombieri/UTN_Proyecto-Laboratorio2/tree/main/)<br>
 -- ✨​ [Semantic Cache Reverse Proxy for LLM](https://github.com/RodrigoBombieri/auracache) ⭐<br><br>
+
+-- <img width="20" height="20" alt="mobile icon" src="https://img.icons8.com/?size=100&id=12919&format=png&color=000000" /> Mobile Projects <br>
+-- 📓 [Cuaderno de Campo](https://github.com/RodrigoBombieri/agronotes) ⭐<br><br>
 
 -- <img width="20" height="20" alt="java icon" src="https://github.com/user-attachments/assets/0c350857-18a7-469f-8b29-42caca820809" /> Java Projects<br>
 -- ​🏦​ [Software Gestion Bancaria](https://github.com/RodrigoBombieri/TPINT_GRUPO_2_LAB4)<br><br>
