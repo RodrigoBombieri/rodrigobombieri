@@ -7,10 +7,10 @@ Programador orientado al ecosistema Microsoft, con foco en C# / .NET (APIs REST,
 🔭 Actualmente trabajando en:<br><br>
 
 -- <img width="20" height="20" alt=".net icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/250px-Microsoft_.NET_logo.svg.png" /> Proyectos .NET <br>
--- 👨‍⚕️ [Profesional.API](https://github.com/RodrigoBombieri/Profesional.API) — Sistema de gestión para profesionales de la salud: pacientes, turnos y reportes, con ASP.NET Core Web API y Blazor.<br>
+-- 👨‍⚕️ [Profesional.API](https://github.com/RodrigoBombieri/Profesional.API) ⭐ — Sistema de gestión para profesionales de la salud: pacientes, turnos y reportes, con ASP.NET Core Web API y Blazor.<br>
 -- 🔜 [Control de Balanza .NET](https://github.com/RodrigoBombieri/AgroSoluciones/) — Gestión de pesaje y logística de camiones en acopios de grano, con lectura de Cartas de Porte y OCR inteligente.<br>
--- 📦​ [Sistema de Stock - WinForms](https://github.com/RodrigoBombieri/SistemaEscritorio) — Control de inventario (productos, categorías, proveedores y movimientos de stock) para comercios de una sola sucursal.<br>
--- 📅​ [Control de Vencimientos .NET](https://github.com/RodrigoBombieri/ControlVencimientos) - Control de vencimientos para pequeñas empresas (Habilitaciones, Seguros, Matafuegos, ART, Capacitaciones, Carnets, Licencias, Mantenimientos, Inspecciones, Contratos, etc) <br>
+-- 📦​ [Sistema de Stock - WinForms](https://github.com/RodrigoBombieri/SistemaEscritorio) ⭐ — Control de inventario (productos, categorías, proveedores y movimientos de stock) para comercios de una sola sucursal.<br>
+-- 📅​ [Control de Vencimientos .NET](https://github.com/RodrigoBombieri/ControlVencimientos)⭐ - Control de vencimientos para pequeñas empresas (Habilitaciones, Seguros, Matafuegos, ART, Capacitaciones, Carnets, Licencias, Mantenimientos, Inspecciones, Contratos, etc) <br>
 -- ⚙️​ [ApiTaller .NET](https://github.com/RodrigoBombieri/API-Web-con-.Net-10/) — Práctica de Web API con .NET 10.<br>
 -- 🎞️​ [ProjectsMVC .NET](https://github.com/RodrigoBombieri/Curso-CSharp-Nivel-4/) — Proyectos ASP.NET MVC del curso de C# Nivel 4.<br>
 -- 🖥️ [Ecommerce Web .NET](https://github.com/RodrigoBombieri/tp-final-nivel3-Bombieri-Rodrigo/) — Aplicación web de e-commerce con gestión de productos, carrito de compras y persistencia en SQL Server.<br>
