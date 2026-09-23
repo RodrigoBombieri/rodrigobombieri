@@ -32,7 +32,7 @@ Programador orientado al ecosistema Microsoft, con foco en C# / .NET (APIs REST,
 -- ​🏦​ [Software Gestión Bancaria](https://github.com/RodrigoBombieri/TPINT_GRUPO_2_LAB4) — Trabajo práctico grupal: sistema de gestión bancaria.<br><br>
 
 -- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="20" height="20" alt="Astro"/> Proyectos Web<br>
--- 💻 [Landing Page Corporativa](https://github.com/RodrigoBombieri/LandingCorporativa) — Landing page institucional responsive.<br><br>
+-- 💻 [Landing Page Corporativa](https://github.com/RodrigoBombieri/LandingCorporativa) — Landing page institucional responsive.<br>
 -- 🩺​ [Landing Page Kinesiología](https://kinesiologiabombieri.com.ar/) — Landing page profesional responsive.<br><br>
 
 🌱 Actualmente aprendiendo Docker & Cloud<br><br>
