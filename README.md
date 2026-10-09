@@ -27,7 +27,8 @@ Programador orientado al ecosistema Microsoft, con foco en C# / .NET (APIs REST,
 
 -- <img width="20" height="20" alt="mobile icon" src="https://img.icons8.com/?size=100&id=12919&format=png&color=000000" /> Proyectos Mobile <br>
 -- 📓 [Cuaderno de Campo](https://github.com/RodrigoBombieri/agronotes) ⭐ — App móvil para el registro de actividades y notas de campo agrícolas.<br>
--- 🌊 [Alerta Rio](https://github.com/RodrigoBombieri/alertario-argentina) ⭐ — App móvil para consultar alturas de los ríos.<br><br>
+-- 🌊 [Alerta Rio](https://github.com/RodrigoBombieri/alertario-argentina) ⭐ — App móvil para consultar alturas de los ríos.<br>
+-- 🧭​ [Ruta Smart](https://github.com/RodrigoBombieri/ruta-smart) ⭐ — App móvil para planificar tu viaje.<br><br>
 
 -- <img width="20" height="20" alt="java icon" src="https://github.com/user-attachments/assets/0c350857-18a7-469f-8b29-42caca820809" /> Proyectos Java<br>
 -- ​🏦​ [Software Gestión Bancaria](https://github.com/RodrigoBombieri/TPINT_GRUPO_2_LAB4) — Trabajo práctico grupal: sistema de gestión bancaria.<br><br>
