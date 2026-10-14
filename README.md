@@ -18,6 +18,7 @@ Programador orientado al ecosistema Microsoft, con foco en C# / .NET (APIs REST,
 
 -- <img width="20" height="20" alt="python icon" src="https://github.com/user-attachments/assets/8b7891b5-f692-402f-92af-0f4f58bb8da6" /> Proyectos Python + IA <br>
 -- 🤖 [Software para Drones](https://github.com/RodrigoBombieri/agrotello)⭐ — Automatización y control de drones aplicado a tareas agrícolas.<br>
+-- 📇​ [Tablio](https://github.com/RodrigoBombieri/tablio)⭐ — Convertí una planilla de Excel en un sistema sencillo para trabajar todos los días.<br>
 -- ​📊​​ [Análisis de Ventas](https://github.com/RodrigoBombieri/IBM-Guayerd---Fundamentos-de-IA/) — Proyecto del curso de Fundamentos de IA (IBM / GUAYERD): análisis de ventas con Python, Streamlit y scikit-learn.<br>
 -- ​⛅​ [Clasificador de Nubes](https://github.com/RodrigoBombieri/IA-Projects) — Clasificación de imágenes de nubes con Machine Learning.<br><br>
 
